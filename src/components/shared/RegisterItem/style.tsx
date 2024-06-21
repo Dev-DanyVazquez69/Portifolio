@@ -4,7 +4,7 @@ import media from "../../../utilities/breakpoints/breakpoints";
 
 
 export const ContainerItem = styled.section`
-    height: 144px;
+    height: auto;
     margin:50px;
     max-height: 144px;
     width: auto;
