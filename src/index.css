@@ -1,0 +1,44 @@
+:root {
+	font-family: 'Josefin_Sans', sans-serif;
+	box-sizing: border-box;
+	border: 0;
+	padding: 0;
+	color-scheme: light dark;
+	color: rgba(0, 0, 0, 0.87);
+	background-color: #ffffff;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+}
+
+/* @media (prefers-color-scheme: dark) {
+	:root {
+		color: #ffffff;
+		background-color: #000000;
+	}
+	a:hover {
+		color: #747bff;
+	}
+	button {
+		background-color: #f9f9f9;
+	}
+} */
+
+@font-face {
+	font-family: 'Josefin_Sans';
+	src: url('./assets/fonts/Josefin_Sans/static/JosefinSans-Regular.ttf') format('truetype');
+	src: url('./assets/fonts/Josefin_Sans/static/JosefinSans-Bold.ttf') format('truetype');
+	src: url('./assets/fonts/Josefin_Sans/static/JosefinSans-Light.ttf') format('truetype');
+	src: url('./assets/fonts/Josefin_Sans/static/JosefinSans-Medium.ttf') format('truetype');
+	/* Adicione outros formatos de fonte aqui, se necessário */
+  }

@@ -1,0 +1,1 @@
+export const aviso = 'https://img.freepik.com/vetores-gratis/sob-ilustracao-do-conceito-de-construcao_114360-1917.jpg?w=740&t=st=1687696937~exp=1687697537~hmac=2a609afbd7b89b48ba5f05d43e343d4042521631526b4daeeac05520cf3be8d1'
