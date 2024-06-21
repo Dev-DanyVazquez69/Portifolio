@@ -9,37 +9,37 @@ const Tecnologias: React.FC = () => {
 			id: 0,
 			title: 'Javascript',
 			describe: 'Javascript',
-			image: 'src/assets/img/javascript.png',
+			image: 'https://img.icons8.com/?size=100&id=108784&format=png&color=000000',
 		},
 		{
 			id: 1,
 			title: 'Typescript',
 			describe: 'Typescript',
-			image: 'src/assets/img/typescript.png',
+			image: 'https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000',
 		},
 		{
 			id: 2,
 			title: 'Git',
 			describe: 'Git',
-			image: 'src/assets/img/git.png',
+			image: 'https://img.icons8.com/?size=100&id=20906&format=png&color=000000',
 		},
 		{
 			id: 3,
 			title: 'Linux',
 			describe: 'Linux',
-			image: 'src/assets/img/linux.png',
+			image: 'https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000',
 		},
 		{
 			id: 4,
 			title: 'Node JS',
 			describe: 'Node JS',
-			image: 'src/assets/img/node.png',
+			image: 'https://img.icons8.com/?size=100&id=54087&format=png&color=000000',
 		},
 		{
 			id: 5,
 			title: 'React JS',
 			describe: 'React JS',
-			image: 'src/assets/img/react.png',
+			image: 'https://img.icons8.com/?size=100&id=t5K2CR8feVdX&format=png&color=000000',
 		},
 	];
 
