@@ -7,12 +7,11 @@ export const ContainerItem = styled.section`
     height: 144px;
     margin:50px;
     max-height: 144px;
-    width: 100%;
+    width: auto;
     display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 20px;
     overflow: hidden;
-
     ${media.large`
     
     `}
@@ -27,12 +26,17 @@ export const ContainerItem = styled.section`
 `;
 
 export const ContainerText = styled.div`
-    width: 50%;
+    width: auto;
     height: auto;
+    border-bottom: 3px solid ${colors.primary};
+    cursor: pointer;
+
 `;
 
 export const TextItem = styled.h5`
-    font-size: 18px;
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: bolder;
     color: ${colors.black};
 
     ${media.small`
@@ -48,19 +52,34 @@ export const TextDescribe = styled.p`
     letter-spacing: 0.15px;
 
     ${media.medium`
-    font-size: 10px;
+    font-size: 14px;
     `}
 
     ${media.small`
-    font-size: 8px;
+    font-size: 12px;
     `}
 `;
 
 export const ContainerImage = styled.div`
-    width: 97px;
+    width: 150px;
     height: 100%;
     max-height: 200px;
-    background-color: ${colors.primary};
     margin: auto 0;
+    ${media.large`
+        width: 130px;
+    `}
+    
+    ${media.medium`
+        width: 120px;
+    `}
+    
+    ${media.small`
+        width: 110px;
+    `}
 
 `;
+
+export const CertificateImage = styled.img`
+    width: 100%;
+    height: 100%;
+`
