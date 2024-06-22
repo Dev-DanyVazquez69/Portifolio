@@ -111,6 +111,7 @@ const Certificados: React.FC = () => {
 		},
 	];
 
+
 	return (
 		<>
 			<Slogan />

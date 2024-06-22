@@ -7,7 +7,7 @@ const ContainerSecundary: React.FC = () => {
 			<S.SecundaryLeft>
 				<S.ContainerText1>
 					<S.Text1>
-						Sou um pessoa apaixonado por tecnologia, busco contribuir para essa
+						Sou uma pessoa apaixonado por tecnologia, busco contribuir para essa
 						área e ser um profissional de excelencia. Atualmente foco meus
 						estudos no desenvolmento WEB porém, adoro e sempre busco estar
 						antenado em área correlatas.
