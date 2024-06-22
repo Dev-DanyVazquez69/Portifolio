@@ -20,7 +20,7 @@ const ContainerSecundary: React.FC = () => {
 				</S.ContainerLink>
 			</S.SecundaryLeft>
 			<S.SecundaryRight>
-            <S.ContainerImage src='src\assets\img\foto-perfil.png'/>
+            <S.ContainerImage src='https://lh3.googleusercontent.com/pw/AP1GczPV8WhzIxyImd3luE455IaT2VgN07z6etF3mDc_ECforAFTHgjgKOYKAiPmevM1gasIhmKk23xGHPbZpO24khWXaXbDLezR1V46R_DWHhO8AzoFJt6_HxfpPNn3HM3QyJNacY9EvjPYdExE8uA9GOEP=w374-h666-s-no-gm'/>
 			</S.SecundaryRight>
 		</S.ContainerSecundary>
 	);
